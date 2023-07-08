@@ -1,4 +1,4 @@
-# <Module 1 Project>
+# Module 1 Project
 
 ## Description
 
