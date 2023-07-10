@@ -2,7 +2,7 @@
 
 ## Description
 
-This was a mock-up page to practice the skills developed during the module 1 of the bootcamp. It focused on making the webpage accessible, have proper semantics, deploying the webpage and adding a README file.
+This was a mock-up page to practice the skills developed during the module 1 of the bootcamp. It is focused on making the webpage accessible, have proper semantics, deploying the webpage and adding a README file.
 
 ## Installation
 
