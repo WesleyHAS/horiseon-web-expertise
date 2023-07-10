@@ -16,9 +16,9 @@ https://wesleyhas.github.io/module-1-challenge/
 
 ## Preview of Page
 
-![Screentshot 1](./develop/assets/images/page-preview-1.png)
+![Screentshot 1](./docs/assets/images/page-preview-1.png)
 
-![Screentshot 2](./develop/assets/images/page-preview-2.png)
+![Screentshot 2](./docs/assets/images/page-preview-2.png)
 
 ## Credits
 
