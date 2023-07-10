@@ -10,11 +10,21 @@ N/A
 
 ## Usage
 
-N/A
+Please visit following link to see final results 
+
+https://wesleyhas.github.io/module-1-challenge/
+
+## Screenshots
+
+![Screentshot 1](https://www.dropbox.com/s/tf45glf2lwgxj1w/Screenshot%202023-07-10%20083215.png?dl=0 "Screentshot 1")
+
+![Screentshot 1](https://www.dropbox.com/s/rvat3vjf4v826vf/Screenshot%202023-07-10%20083252.png?dl=0 "Screentshot 1")
 
 ## Credits
 
-N/A
+Credits to Xandromus who is the original creater of this page.
+
+https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 

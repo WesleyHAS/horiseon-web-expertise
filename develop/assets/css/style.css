@@ -1,13 +1,25 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Elements Selectors */
 body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Header and header links */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,11 +53,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* Selectors for boxes */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +69,17 @@ a {
     margin-left: 20px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Box 1 */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -79,15 +98,7 @@ a {
     font-size: 36px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Box 2 */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,11 +117,7 @@ p {
     font-size: 36px;
 }
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Box 3 */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +136,7 @@ p {
     font-size: 36px;
 }
 
+/* Selector for benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,6 +148,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Benefit 1 */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -156,6 +165,7 @@ p {
     max-width: 150px;
 }
 
+/* Benefit 2 */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -172,6 +182,7 @@ p {
     max-width: 150px;
 }
 
+/* Benefit 3 */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -188,6 +199,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer selector */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +207,7 @@ p {
     text-align: center;
 }
 
+/* Footer class selector */
 .footer h4 {
     font-size: 20px;
 }
