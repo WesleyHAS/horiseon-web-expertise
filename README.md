@@ -12,7 +12,7 @@ N/A
 
 Please visit following link to see final results 
 
-https://wesleyhas.github.io/module-1-challenge/
+https://wesleyhas.github.io/horiseon-web-expertise/
 
 ## Preview of Page
 
